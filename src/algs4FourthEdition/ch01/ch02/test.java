@@ -1,4 +1,4 @@
-package algs4FourthEdition.ch01.ch01_2;
+package algs4FourthEdition.ch01.ch02;
 
 import edu.princeton.cs.algs4.Point2D;
 import edu.princeton.cs.algs4.StdDraw;

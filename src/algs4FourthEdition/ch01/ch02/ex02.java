@@ -1,13 +1,14 @@
-package algs4FourthEdition.ch01.ch01_2;
+package algs4FourthEdition.ch01.ch02;
 
 import edu.princeton.cs.algs4.Interval1D;
 import edu.princeton.cs.algs4.StdIn;
 
-public class ch01_2_2 {
+public class ex02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int N =Integer.parseInt(args[0]);
+		//int N =Integer.parseInt(args[0]);
+		int N=10;
 		Interval1D[] intervals=new Interval1D[N];
 		//获取从键盘输入的键值对
 		//注意输入的时候，输入两个数，中间有空格，然后换行输入下一组数

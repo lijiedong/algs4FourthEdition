@@ -1,4 +1,4 @@
-package algs4FourthEdition.ch01.ch01_2;
+package algs4FourthEdition.ch01.ch02;
 
 import edu.princeton.cs.algs4.Point2D;
 import edu.princeton.cs.algs4.StdDraw;
@@ -9,7 +9,7 @@ import edu.princeton.cs.algs4.StdRandom;
  * @author lijiedong
  *
  */
-public class ch01_2_1 {
+public class ex01 {
 
 	public static void main(String[] args) {
 		//int N = Integer.parseInt(args[0]);
